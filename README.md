@@ -19,20 +19,15 @@ I’m especially interested in:
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
-- Python
-- C
-- C++
-- Java
+[![My Skills](https://skillicons.dev/icons?i=python,c,cpp,java)](https://skillicons.dev)
+
 
 ### ☁️ Cloud Platforms
-- AWS
-- Microsoft Azure
-- Google Cloud Platform
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,gcp)](https://skillicons.dev)
+
 
 ### ⚙️ Tools & Technologies
-- Kubernetes
-- Linux
-- Git
+[![My Skills](https://skillicons.dev/icons?i=kubernetes,linux,git)](https://skillicons.dev)
 
 ---
 
